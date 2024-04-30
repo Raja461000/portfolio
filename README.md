@@ -44,4 +44,7 @@ The decline in revenue is primarily linked to low Occupancy percentages, which, 
 ADR should be adjusted dynamically based on factors like the city, weekdays, and low-demand days to maximize revenue.
 Finally, I would like to thank codebasics team, Dhaval Patel, Hemanand Vadivel for creating this wonderful course.
 
+# Snapshot of Dashboard (Power BI Service)
+
+![Screenshot (10)](https://github.com/Raja461000/portfolio/assets/145743848/85a7654b-81ce-4669-9498-ff66365cb098)
 
